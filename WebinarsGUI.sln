@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebinarsGUI", "WebinarsGUI\WebinarsGUI.vcxproj", "{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Debug|x64.ActiveCfg = Debug|x64
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Debug|x64.Build.0 = Debug|x64
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Debug|x86.Build.0 = Debug|Win32
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Release|x64.ActiveCfg = Release|x64
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Release|x64.Build.0 = Release|x64
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Release|x86.ActiveCfg = Release|Win32
+		{82DC6DD0-9608-4F24-BC4E-8FFC58C663EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7537BD79-B661-40C6-93C3-4BBAE45EEF30}
+	EndGlobalSection
+EndGlobal
