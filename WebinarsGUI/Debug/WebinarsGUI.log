@@ -1,11 +1,11 @@
 ﻿  WebinarsGUI.cpp
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(168,52): warning C4018: '>': signed/unsigned mismatch
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(236,20): warning C4101: 'hBrush': unreferenced local variable
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(416,49): warning C4018: '>': signed/unsigned mismatch
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(300,9): warning C4101: 'hdc': unreferenced local variable
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(298,11): warning C4101: 'hFont': unreferenced local variable
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(299,10): warning C4101: 'hctl': unreferenced local variable
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(449,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(471,31): warning C4018: '<': signed/unsigned mismatch
-C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(504,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(171,52): warning C4018: '>': signed/unsigned mismatch
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(241,20): warning C4101: 'hBrush': unreferenced local variable
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(421,49): warning C4018: '>': signed/unsigned mismatch
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(305,9): warning C4101: 'hdc': unreferenced local variable
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(303,11): warning C4101: 'hFont': unreferenced local variable
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(304,10): warning C4101: 'hctl': unreferenced local variable
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(454,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(476,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\WebinarsGUI\WebinarsGUI.cpp(509,39): warning C4018: '<': signed/unsigned mismatch
   WebinarsGUI.vcxproj -> C:\Users\benmo\Desktop\Ben\Projects\Programs\Cpp\WebinarsGUI\WebinarsGUI\Debug\WebinarsGUI.exe

@@ -7,6 +7,7 @@
 #include <fstream>
 #include <algorithm>
 #include <iostream>
+#include <thread>
 
 #define MAX_LOADSTRING 100
 
@@ -33,6 +34,10 @@ std::vector<std::wstring> split(const std::wstring& str, const std::wstring& del
         prev = pos + delim.length();
     } while (pos < str.length() && prev < str.length());
     return tokens;
+}
+
+int runCmd(std::wstring b) {
+    return _wsystem(b.c_str());
 }
 
 // Forward declarations of functions included in this code module:
@@ -205,10 +210,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             {
             case BN_CLICKED:
                 for (Button* b : classes) {
-                    if ((HWND)lParam == b->wnd) _wsystem(b->cmd.c_str());
+                    if ((HWND)lParam == b->wnd) {
+                        std::thread thread(runCmd, b->cmd);
+                        thread.join();
+                        PostQuitMessage(0);
+                    }
                 }
-                
-                PostQuitMessage(0);
 
                 break;
             case IDM_ABOUT:

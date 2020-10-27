@@ -15,3 +15,4 @@
 #include <tchar.h>
 // C++ Headers
 #include <vector>
+#include <string>
